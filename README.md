@@ -3,4 +3,4 @@ Recently I have completed the Google Data Anaytics Professional Certificate. In 
 
 1.The Data Visualization, is located at the following public Tableau linked here
 
-2. The storytelling part is linked here
+2.The storytelling part is linked here
